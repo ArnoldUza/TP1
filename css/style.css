@@ -23,9 +23,11 @@ td {
   font-weight: bold;
   padding-bottom: 10px;
   padding-top: 10px;
+  padding-left: 3px;
 }
 
 #synopsis {
+  padding-left: 3px;
   font-size: 85%;
 }
 
@@ -42,6 +44,7 @@ td:nth-child(odd) {
   background-color: blue;
   padding-left: 4px;
   color: white;
+  outline: solid blue;
   font-size: large;
   font-weight: bold;
 }
