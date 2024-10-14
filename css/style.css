@@ -43,7 +43,6 @@ td:nth-child(odd) {
   padding-left: 4px;
   color: white;
   font-size: large;
-  outline: solid blue;
   font-weight: bold;
 }
 
