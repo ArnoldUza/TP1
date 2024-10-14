@@ -58,15 +58,15 @@ td:nth-child(odd) {
 }
 
 #Chris_Evans {
-  background-image: url("images/Chris_Evans.png");
+  background-image: url("/images/Chris_Evans.png");
 }
 
 #Chris_Hemsworth {
-  background-image: url("/images/Chris_Hemsworth.png");
+  background-image: url('/images/Chris_Hemsworth.png');
 }
 
 #Jeremy_Renner {
-  background-image: url("/images/Jeremy_Renner.png");
+  background-image: url('/images/Jeremy_Renner.png');
 }
 
 #Mark_Ruffalo {
