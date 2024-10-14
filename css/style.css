@@ -2,7 +2,8 @@ body {
   background-image: linear-gradient(#097ce2, black);
 }
 
-table, td {
+table,
+td {
   margin: auto;
   font-family: Georgia, 'Times New Roman', Times, serif;
   text-align: left;
@@ -91,7 +92,8 @@ sub {
   color: blue;
 }
 
-.Autres, .sourcesGras {
+.Autres,
+.sourcesGras {
   font-size: large;
   padding-top: 10px;
   padding-left: 8px;
