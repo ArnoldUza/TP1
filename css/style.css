@@ -1,0 +1,103 @@
+body {
+  background-image: linear-gradient(#097ce2, black);
+}
+
+table, td {
+  margin: auto;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: left;
+  background-color: white;
+  width: 50%;
+}
+
+#titreFilm {
+  background-color: black;
+  color: white;
+  outline: solid black;
+  font-size: 25px;
+  text-align: center;
+}
+
+#synopsisGras {
+  font-weight: bold;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+#synopsis {
+  font-size: 85%;
+}
+
+td:nth-child(odd) {
+  width: 10%;
+}
+
+.afficheFilm {
+  width: 400px;
+  height: 600px;
+}
+
+#distribution {
+  background-color: blue;
+  padding-left: 4px;
+  color: white;
+  font-size: large;
+  outline: solid blue;
+  font-weight: bold;
+}
+
+.photoActeur a {
+  width: 55px;
+  height: 55px;
+  margin: 10px;
+  margin-right: 35px;
+  border-radius: 40px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+
+#Chris_Evans {
+  background-image: url(/images/Chris_Evans.png);
+}
+
+#Chris_Hemsworth {
+  background-image: url(/images/Chris_Hemsworth.png);
+}
+
+#Jeremy_Renner {
+  background-image: url(/images/Jeremy_Renner.png);
+}
+
+#Mark_Ruffalo {
+  background-image: url(/images/Mark_Ruffalo.png);
+}
+
+#Robert_Downey_Jr {
+  background-image: url(/images/Robert_Downey_Jr..png);
+}
+
+#Scarlett_Johansson {
+  background-image: url(/images/Scarlett_Johansson.png);
+}
+
+#Tom_Hiddleston {
+  background-image: url(/images/Tom_Hiddleston.png);
+}
+
+sub {
+  font-size: small;
+  font-style: italic;
+  color: blue;
+}
+
+.Autres, .sourcesGras {
+  font-size: large;
+  padding-top: 10px;
+  padding-left: 8px;
+}
+
+ul {
+  text-align: left;
+  font-size: small;
+}
